@@ -1,0 +1,6 @@
+before doing this you have to install the library first in cmd:
+
+pip install googletrans
+pip install win10toast
+pip install pyperclip
+
