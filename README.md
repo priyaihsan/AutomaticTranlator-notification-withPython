@@ -1,2 +1,2 @@
-# AutomaticTranlator-notification-with-python-
+# AutomaticTranlator-notification-WithPython
 using python 
