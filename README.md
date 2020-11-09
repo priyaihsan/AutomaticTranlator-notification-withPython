@@ -7,7 +7,7 @@ using Python
 3 empty variables are translated into Indonesian.
 4 after getting the results from the translate the input into the notification for the translation notification.
 
-# how to run program 
+# how to run program:
 1 copy this : "Welcome to the automatic translator notification"
 2 If you don't copy it, the first thing that will appear is the copy notification that you copied before.
 3 after that run the program.
