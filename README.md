@@ -22,3 +22,5 @@ using Python
 
 5 if you want to exit just need to paste the word "exit" and the program will finish.
 
+# a problem that you might fix in this code
+1 the problem is that when we translate a lot, sometimes the words don't appear all only partially
